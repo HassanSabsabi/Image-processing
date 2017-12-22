@@ -1,2 +1,2 @@
 # Image-processing
-Digital Image processing in Matlab
+Digital Image processing LAbs in Matlab
